@@ -1,1 +1,20 @@
-ewogICJjbGF1ZGUiOiB7CiAgICAicGxhbiI6ICJNYXgiLAogICAgInJlc2V0c19hdCI6ICIyMDI2LTExLTE2VDAzOjAwOjAwKzA5OjAwIiwKICAgICJzZXNzaW9uX2xlZnRfcGN0IjogOTQsCiAgICAid2Vla2x5X2xlZnRfcGN0IjogOTQKICB9LAogICJncHQiOiB7CiAgICAiZml2ZV9ob3VyX2xlZnRfcGN0IjogMTAwLAogICAgImZpdmVfaG91cl9yZXNldHNfYXQiOiAiMjAyNi0xMS0wOVQyMDowMDo1NyswOTowMCIsCiAgICAicGxhbiI6ICJQbHVzIiwKICAgICJyZXNldHNfYXQiOiAiMjAyNi0xMS0xMlQwMDowNToyOCswOTowMCIsCiAgICAid2Vla2x5X2xlZnRfcGN0IjogMzYKICB9LAogICJncm9rIjogewogICAgIm5vdGUiOiAi5LiK6ZmQ5Yiw6YGU77yI5q6L6YeP44K844Ot77yJIiwKICAgICJ3ZWVrbHlfbGVmdF9wY3QiOiAwCiAgfSwKICAidXBkYXRlZF9hdCI6ICIyMDI2LTExLTA5IDE1OjA1IEpTVCIKfQ==
+{
+  "claude": {
+    "plan": "Max",
+    "resets_at": "2026-11-16T03:00:00+09:00",
+    "session_left_pct": 94,
+    "weekly_left_pct": 94
+  },
+  "gpt": {
+    "five_hour_left_pct": 100,
+    "five_hour_resets_at": "2026-11-09T20:00:57+09:00",
+    "plan": "Plus",
+    "resets_at": "2026-11-12T00:05:28+09:00",
+    "weekly_left_pct": 36
+  },
+  "grok": {
+    "note": "上限到達（残量ゼロ）",
+    "weekly_left_pct": 0
+  },
+  "updated_at": "2026-11-09 15:05 JST"
+}
